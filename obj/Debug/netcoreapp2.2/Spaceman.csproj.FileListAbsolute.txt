@@ -1,0 +1,12 @@
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\bin\Debug\netcoreapp2.2\Spaceman.deps.json
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\bin\Debug\netcoreapp2.2\Spaceman.runtimeconfig.json
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\bin\Debug\netcoreapp2.2\Spaceman.runtimeconfig.dev.json
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\bin\Debug\netcoreapp2.2\Spaceman.dll
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\bin\Debug\netcoreapp2.2\Spaceman.pdb
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\obj\Debug\netcoreapp2.2\Spaceman.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\obj\Debug\netcoreapp2.2\Spaceman.AssemblyInfoInputs.cache
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\obj\Debug\netcoreapp2.2\Spaceman.AssemblyInfo.cs
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\obj\Debug\netcoreapp2.2\Spaceman.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\obj\Debug\netcoreapp2.2\Spaceman.dll
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\obj\Debug\netcoreapp2.2\Spaceman.pdb
+C:\Users\louis\OneDrive\Desktop\Code\Coding projects\csharp-spaceman\obj\Debug\netcoreapp2.2\Spaceman.genruntimeconfig.cache
