@@ -1,8 +1,8 @@
 # Console Abduction Guessing Game
- A Console Guessing game app.\n
+ A Console Guessing game app.
 
-To start the Console app:\n
-    -cd into file location via cmd/terminal\n
-        -e.g cd ".../Console-Abduction-Guessing-Game"\n
-    -dotnet run\n
+To start the Console app:
+    -cd into file location via cmd/terminal
+        -e.g cd ".../Console-Abduction-Guessing-Game"
+    -dotnet run
     -console should start.
