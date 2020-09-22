@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\louis\\OneDrive\\Desktop\\Code\\Coding projects\\csharp-spaceman\\Spaceman.csproj",
+      "projectUniqueName": "C:\\Users\\louis\\OneDrive\\Documents\\GitHub\\Console-Abduction-Guessing-Game\\Spaceman.csproj",
       "projectName": "Spaceman",
-      "projectPath": "C:\\Users\\louis\\OneDrive\\Desktop\\Code\\Coding projects\\csharp-spaceman\\Spaceman.csproj",
+      "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\GitHub\\Console-Abduction-Guessing-Game\\Spaceman.csproj",
       "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\louis\\OneDrive\\Desktop\\Code\\Coding projects\\csharp-spaceman\\obj\\",
+      "outputPath": "C:\\Users\\louis\\OneDrive\\Documents\\GitHub\\Console-Abduction-Guessing-Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
